@@ -19,7 +19,7 @@ const initialState = {
   ],
   transactions: [
     {
-      icon: "/images/CardIcon.svg",
+      icon: "/images/BankCardIcon.svg",
       iconBgColor: "#FFF5D9",
       name: "Deposit from my Card",
       date: "28 January 2021",

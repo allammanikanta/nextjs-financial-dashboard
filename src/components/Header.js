@@ -60,7 +60,7 @@ const Header = ({ selectedMenuItem, toggleSidebar, pathname, menuItems }) => {
       </div>
       <div className="lg:hidden w-full px-4 mt-2">
         <div className="flex items-center bg-[#F5F7FA] rounded-[25px] w-full pl-4 h-[50px] mx-auto">
-          <img src="/images/searchIcon.svg" alt="Search Icon" />
+          <img src="/images/SearchIcon.svg" alt="Search Icon" />
           <input
             type="text"
             className="p-2 text-[#8BA3CB] text-[15px] focus:outline-none w-full"
