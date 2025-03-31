@@ -23,7 +23,7 @@ const Header = ({ selectedMenuItem, toggleSidebar, pathname, menuItems }) => {
         <div className="flex items-center space-x-3 lg:flex gap-3">
           <div className="hidden lg:flex flex-grow justify-center mx-4 transition-all duration-1000 ease-in-out gap-6">
             <div className="flex items-center bg-[#F5F7FA] rounded-[25px] w-[255px] pl-4 h-[50px]">
-              <img src="/images/searchIcon.svg" alt="Search Icon" />
+              <img src="/images/SearchIcon.svg" alt="Search Icon" />
               <input
                 type="text"
                 className="p-2 text-[#8BA3CB] text-[15px] focus:outline-none"
@@ -51,7 +51,7 @@ const Header = ({ selectedMenuItem, toggleSidebar, pathname, menuItems }) => {
 
           <div className="flex items-center space-x-3 w-[50px] h-[50px]">
             <img
-              src="/images/userIcon.jpg"
+              src="/images/UserIcon.jpg"
               alt="User Icon"
               className="rounded-full"
             />

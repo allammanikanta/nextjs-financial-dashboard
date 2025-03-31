@@ -4,22 +4,22 @@ export const menuItems = [
   {
     href: "/dashboard",
     label: "Dashboard",
-    imgSrc: "/images/homeIcon.svg", // Can be replaced with an S3 Image URL
+    imgSrc: "/images/HomeIcon.svg", // Can be replaced with an S3 Image URL
   },
   {
     href: "/transactions",
     label: "Transactions",
-    imgSrc: "/images/transactionsIcon.svg",
+    imgSrc: "/images/TransactionsIcon.svg",
   },
   {
     href: "/creditcards",
     label: "Credit Cards",
-    imgSrc: "/images/creditCardsIcon.svg",
+    imgSrc: "/images/CreditCardsIcon.svg",
   },
   {
     href: "/settings",
     label: "Settings",
-    imgSrc: "/images/settingsIcon.svg",
+    imgSrc: "/images/SettingsIcon.svg",
   },
 ];
 

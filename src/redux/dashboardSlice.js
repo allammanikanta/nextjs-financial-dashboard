@@ -19,22 +19,22 @@ const initialState = {
   ],
   transactions: [
     {
-      icon: "/images/cardIcon.svg", // Path to the icon
-      iconBgColor: "#FFF5D9", // Light background for icon
+      icon: "/images/CardIcon.svg",
+      iconBgColor: "#FFF5D9",
       name: "Deposit from my Card",
       date: "28 January 2021",
       amount: -850,
     },
     {
-      icon: "/images/paypalIcon.svg", // Path to the icon
-      iconBgColor: "#E7EDFF", // Light background for icon
+      icon: "/images/PaypalIcon.svg",
+      iconBgColor: "#E7EDFF",
       name: "Deposit Paypal",
       date: "25 January 2021",
       amount: 2500,
     },
     {
-      icon: "/images/dollarIcon.svg", // Path to the icon
-      iconBgColor: "#DCFAF8", // Light background for icon
+      icon: "/images/DollarIcon.svg",
+      iconBgColor: "#DCFAF8",
       name: "Jemi Wilson",
       date: "21 January 2021",
       amount: 5400,
