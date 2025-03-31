@@ -30,17 +30,25 @@ The app makes use of **Next.js App Router** instead of **React Router**, making 
 
 ### 2. **Install dependencies**
 
-    Navigate into the project directory and install the necessary dependencies using npm:
+   Navigate into the project directory and install the necessary dependencies using npm:
 
-    ```bash
-    cd nextjs-financial-dashboard
-    npm install
-    ```
+   ```bash
+   cd nextjs-financial-dashboard
+   npm install
+   ```
 
 ### 3. **Run the development server**
 
-    Once the dependencies are installed, you can start the development server by running the following command:
+   Once the dependencies are installed, you can start the development server by running the following command:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
+
+### 4. **Visit the app locally**
+
+   After the server starts, open your browser and visit http://localhost:3000 to see the app running locally.
+
+   ```bash
+   https://localhost:3000
+   ```
